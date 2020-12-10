@@ -10,10 +10,3 @@
 - ⚡ Passionate about Interactive Media, Game Engines, Middleware & UI/UX
 
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://medium.com/@nuwnjay]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://mobile.twitter.com/nuwnjay]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/nuwanjaya/]
-<br />
-
