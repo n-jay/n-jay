@@ -8,5 +8,6 @@
 - 🌱 Currently following a research based Masters in Computer Science @ the University of Moratuwa
 - 🥅 Open Source Enthusiast
 - ⚡ Passionate about Interactive Media, Game Engines, Middleware & UI/UX
+- 🏃🏻 Addicted to runner's high 
 
 
