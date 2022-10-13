@@ -4,10 +4,10 @@
 
 ## I'm a Software Engineer, Researcher, Lecturer, and Homo Sapien
 
-- 🔭 Conducting visiting lectures at Informatics Institute of Technology, Colombo.
+- 🔭 Lecturing at Informatics Institute of Technology, Colombo.
 - 🌱 Currently following a research based Masters in Computer Science @ the University of Moratuwa
 - 🥅 Open Source Enthusiast
-- ⚡ Passionate about Interactive Media, Game Engines, Middleware & UI/UX
+- ⚡ Passionate about Interactive Media, Game Engines, Middleware, Edge & Cloud Computing and Wireless Sensor Networks
 - 🏃🏻 Addicted to runner's high 
 
 
